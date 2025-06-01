@@ -1,1 +1,0 @@
-# restaurant-survey-provider-model
